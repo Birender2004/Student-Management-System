@@ -1,0 +1,24 @@
+''''''''''''''''''''''''''''''''''''''' Concepts to cover ''''''''''''''''''''''''''''''''''''''''''''''''''''
+//1.The need for spring boot.
+//2. Flow of logic.
+//3. What are the annotations.
+
+//4. Annotation info like:- [{@RestController, @RequestMapping, @Autowired},
+
+                       {@GetMapping, @PostMapping, @DeleteMapping, @PutMapping}
+
+                       {@PathVariable, @RequestBody}]
+
+//5.Response entity.
+//6.Database connectivity.
+
+Imp concepts:
+//1.H2 database.
+//2.What is Spring MVC (model view controller).
+//3.Exception handling flow.
+
+
+1.Instance keyword
+2.Rest API vs API
+3.RequestParam
+4. S and O in SOLID
